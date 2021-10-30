@@ -7,3 +7,5 @@ Week 1: Introduction to Neural Networks
 Week 2: Training Neural Networks
 
 Week 3: MNIST Image Recognition
+
+Week 4: CNNs and Autoencoders 
