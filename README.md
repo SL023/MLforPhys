@@ -1,6 +1,6 @@
 # MLforPhys
 
-<b>Submission Code for Practical Machine Learning for Physicists Course</b>
+<b>Submission Code for Practical Machine Learning for Physicists Module</b>
 
 Week 1: Introduction to Neural Networks
 
