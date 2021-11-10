@@ -9,3 +9,5 @@ Week 2: Training Neural Networks
 Week 3: MNIST Image Recognition
 
 Week 4: CNNs and Autoencoders 
+
+Week5: PCA with MNIST
