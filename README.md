@@ -10,4 +10,4 @@ Week 3: MNIST Image Recognition
 
 Week 4: CNNs and Autoencoders 
 
-Week5: PCA with MNIST
+Week 5: PCA with MNIST
